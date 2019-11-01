@@ -6,12 +6,12 @@ npm install
 npm install -g @vue/cli
 ```
 
-Check version of vue
+## Check version of vue
 ```
 vue --version
 ```
 
-Using the GUI
+## Using the GUI
 ```
 vue ui
 ```
